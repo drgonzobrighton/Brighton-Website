@@ -1,0 +1,34 @@
+c:\users\mihaly\documents\visual studio 2017\Projects\Brighton Website\Brighton Website\bin\roslyn\csc.exe
+c:\users\mihaly\documents\visual studio 2017\Projects\Brighton Website\Brighton Website\bin\roslyn\csc.exe.config
+c:\users\mihaly\documents\visual studio 2017\Projects\Brighton Website\Brighton Website\bin\roslyn\csc.rsp
+c:\users\mihaly\documents\visual studio 2017\Projects\Brighton Website\Brighton Website\bin\roslyn\csi.exe
+c:\users\mihaly\documents\visual studio 2017\Projects\Brighton Website\Brighton Website\bin\roslyn\csi.rsp
+c:\users\mihaly\documents\visual studio 2017\Projects\Brighton Website\Brighton Website\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\mihaly\documents\visual studio 2017\Projects\Brighton Website\Brighton Website\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\mihaly\documents\visual studio 2017\Projects\Brighton Website\Brighton Website\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\mihaly\documents\visual studio 2017\Projects\Brighton Website\Brighton Website\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\mihaly\documents\visual studio 2017\Projects\Brighton Website\Brighton Website\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\mihaly\documents\visual studio 2017\Projects\Brighton Website\Brighton Website\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\mihaly\documents\visual studio 2017\Projects\Brighton Website\Brighton Website\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\mihaly\documents\visual studio 2017\Projects\Brighton Website\Brighton Website\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\mihaly\documents\visual studio 2017\Projects\Brighton Website\Brighton Website\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\mihaly\documents\visual studio 2017\Projects\Brighton Website\Brighton Website\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\mihaly\documents\visual studio 2017\Projects\Brighton Website\Brighton Website\bin\roslyn\System.AppContext.dll
+c:\users\mihaly\documents\visual studio 2017\Projects\Brighton Website\Brighton Website\bin\roslyn\System.Collections.Immutable.dll
+c:\users\mihaly\documents\visual studio 2017\Projects\Brighton Website\Brighton Website\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\mihaly\documents\visual studio 2017\Projects\Brighton Website\Brighton Website\bin\roslyn\System.IO.FileSystem.dll
+c:\users\mihaly\documents\visual studio 2017\Projects\Brighton Website\Brighton Website\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\mihaly\documents\visual studio 2017\Projects\Brighton Website\Brighton Website\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\mihaly\documents\visual studio 2017\Projects\Brighton Website\Brighton Website\bin\roslyn\vbc.exe
+c:\users\mihaly\documents\visual studio 2017\Projects\Brighton Website\Brighton Website\bin\roslyn\vbc.exe.config
+c:\users\mihaly\documents\visual studio 2017\Projects\Brighton Website\Brighton Website\bin\roslyn\vbc.rsp
+c:\users\mihaly\documents\visual studio 2017\Projects\Brighton Website\Brighton Website\bin\roslyn\VBCSCompiler.exe
+c:\users\mihaly\documents\visual studio 2017\Projects\Brighton Website\Brighton Website\bin\roslyn\VBCSCompiler.exe.config
+c:\users\mihaly\documents\visual studio 2017\Projects\Brighton Website\Brighton Website\bin\Brighton Website.dll.config
+c:\users\mihaly\documents\visual studio 2017\Projects\Brighton Website\Brighton Website\bin\Brighton Website.dll
+c:\users\mihaly\documents\visual studio 2017\Projects\Brighton Website\Brighton Website\bin\Brighton Website.pdb
+c:\users\mihaly\documents\visual studio 2017\Projects\Brighton Website\Brighton Website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\mihaly\documents\visual studio 2017\Projects\Brighton Website\Brighton Website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\mihaly\documents\visual studio 2017\Projects\Brighton Website\Brighton Website\obj\Debug\Brighton Website.csprojResolveAssemblyReference.cache
+c:\users\mihaly\documents\visual studio 2017\Projects\Brighton Website\Brighton Website\obj\Debug\Brighton Website.dll
+c:\users\mihaly\documents\visual studio 2017\Projects\Brighton Website\Brighton Website\obj\Debug\Brighton Website.pdb
